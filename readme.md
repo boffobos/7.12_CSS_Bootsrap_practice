@@ -3,6 +3,6 @@
 
 Создаем сайт по готовому шаблону. Использовались Bootsrap компоненты.
 
-[Сайт](https://boffobos.github.io/)
+[Сайт](https://boffobos.github.io/7.12_CSS_Bootsrap_practice/)
 --------
 licence: [MIT](./license.md)
