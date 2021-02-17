@@ -147,6 +147,6 @@ h2 {
    transition: .3s;
 }
 
-.wrap>section:nth-child(odd) {
+.wrap section:nth-child(odd) {
   background-color: var(--light);
 }
